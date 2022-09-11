@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "nome": "Geovane Silva",
+        "profissao": "Programador",
+        "imagem": "https://miro.medium.com/freeze/max/680/1*VON9gHTrzeHZbHfXsqfzEA.gif",
+        "descricao": "Os programadores desenvolvem e aperfeiçoam sites, aplicativos, programas de computador, sistemas operacionais, sistemas de empresas e redes sociais. Trata-se de uma profissão transversal, com possibilidade de atuação em diferentes setores, como serviço, comércio e na indústria."
+    },
+    {
+        "id": 2,
+        "nome": "Gilberto Amorim",
+        "profissao": "Advogado",
+        "imagem": "https://static.vecteezy.com/ti/fotos-gratis/t2/1269203-advogado-trabalhando-na-mesa-gr%C3%A1tis-foto.jpg",
+        "descricao": "O profissional que defende interesses com base nas leis. De acordo com especialistas, áreas como Direito Tributário, Direito Internacional, Direito Empresarial e Direito Digital estão em alta"
+    },
+    {
+        "id": 3,
+        "nome": "Maria de Lourdes",
+        "profissao": "Médica",
+        "imagem": "https://www.conexasaude.com.br/blog/wp-content/uploads/2021/02/medicina-trabalho-medica-bracos-cruzados.jpg",
+        "descricao": "O médico é o profissional que busca diagnosticar, tratar e curar pessoas doentes. Ele pode ser generalista, ou seja, atender todos os tipos de encaminhamentos da área médica, ou especializado em alguma atividade ou função específica."
+    },
+    {
+        "id": 4,
+        "nome": "Gilberto Júnior",
+        "profissao": "Empresário",
+        "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrBtPyYk7-FGoHGftn3VI21YpCLuqIZRFlog&usqp=CAU",
+        "descricao": "Para a Legislação, é considerado empresário quem exerce profissionalmente uma atividade econômica (comerciais, industriais ou de serviços) com um mínimo de organização e de forma individual, produzindo ou fazendo circular bens ou serviços e gerando lucro."
+    }
+]
